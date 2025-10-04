@@ -27,6 +27,31 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+         Console.Write("Introdueix el primer numero :");
+        string numero1 = Console.ReadLine();
+        Console.Write("Introdueix el segon numero :");
+        string numero2 = Console.ReadLine();
+        if (int.TryParse(numero1, out int nm1) && int.TryParse(numero2, out int nm2))
+        {
+
+            int suma = nm1 + nm2;
+            int resta = nm1 - nm2;
+            int multiplicació = nm1 * nm2;
+            int divisió = nm1 / nm2;
+            int restadivisio = nm1 % nm2;
+
+            Console.WriteLine($"{nm1} + {nm2} = {suma}");
+            Console.WriteLine($"{nm1} - {nm2} = {resta}");
+            Console.WriteLine($"{nm1} * {nm2} = {multiplicació}");
+            Console.WriteLine($"{nm1} / {nm2} = {divisió} i en sobra {restadivisio}");
+
+        }
+
+        else
+        {
+            Console.WriteLine("Han de ser numero enters ");
+        }
+
     }
 }
+

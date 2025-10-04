@@ -1,0 +1,15 @@
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.AssemblyInfoInputs.cache
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.AssemblyInfo.cs
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.sourcelink.json
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\bin\Debug\net9.0\exercici10.exe
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\bin\Debug\net9.0\exercici10.deps.json
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\bin\Debug\net9.0\exercici10.runtimeconfig.json
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\bin\Debug\net9.0\exercici10.dll
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\bin\Debug\net9.0\exercici10.pdb
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.dll
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\refint\exercici10.dll
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.pdb
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\exercici10.genruntimeconfig.cache
+C:\Users\Jordi\Documents\Programacio\Programas_Basics\1-programes-basics-Jordii2005\exercicis\exercici10\obj\Debug\net9.0\ref\exercici10.dll

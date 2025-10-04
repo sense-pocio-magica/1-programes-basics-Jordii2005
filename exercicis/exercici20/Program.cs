@@ -12,6 +12,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix un numero de tres xifres :");
+        string numero = Console.ReadLine();
+        if (int.TryParse(numero, out int num) && numero.Length == 3)
+        {
+            char[] digits = numero.ToCharArray();
+            Array.Reverse(digits);
+            string numeroInvertit = new string(digits);
+            Console.WriteLine($"El numero invertit es: {numeroInvertit}");
+        }
     }
 }
