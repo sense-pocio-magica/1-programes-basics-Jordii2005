@@ -7,6 +7,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix un valor en metres :");
+        string metres = Console.ReadLine();
+        if (double.TryParse(metres, out double valorMetres))
+        {
+            double peus = valorMetres * 3.28084;
+            Console.WriteLine($"{valorMetres} metres son {peus} peus");
+        }
+        else
+        {
+            Console.WriteLine("El valor ha de ser un numero");
+        }
     }
 }

@@ -15,6 +15,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix un numero real :");
+        string numero = Console.ReadLine();
+        if (double.TryParse(numero, out double num))
+        {
+            double decimals = num - Math.Truncate(num);
+            Console.WriteLine($"El nombre meravellós es {decimals:F2}");
+        }
+
     }
 }

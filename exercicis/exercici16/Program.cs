@@ -16,6 +16,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix la nota de practiques :");
+        string notapractiques = Console.ReadLine();
+        Console.Write("Introdueix la nota de examen :");
+        string notaexamen = Console.ReadLine();
+
+        if (double.TryParse(notapractiques, out double practiques) && double.TryParse(notaexamen, out double examen))
+        {
+            double mitjana = (practiques + examen) / 2;
+            int notaFinal = (int)Math.Round(mitjana);
+
+            Console.WriteLine($"La mitjana es {mitjana} o sigui un {notaFinal}");
+        }
     }
 }
+
+
