@@ -17,7 +17,7 @@ class Program
         {
 
             double mitjana = (n1 + n2 + n3) / 3;
-            Console.WriteLine($"La mitjana es {mitjana}:");
+            Console.WriteLine($"La mitjana es {mitjana:F2}:");
         }
         else
         {

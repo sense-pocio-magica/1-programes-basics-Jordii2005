@@ -20,6 +20,8 @@ Em dic Pi, Joan Pi
 
 class Program
 {
+
+    // E
     static void Main(string[] args)
     {
         Console.Write("Entra el nom :");

@@ -17,6 +17,7 @@ class Program
         Console.Write("Entra la població :");
         string població = Console.ReadLine();
 
+ 
         Console.WriteLine($"{carrer}, {número}, {codipostal}, {població}");
 
     }
