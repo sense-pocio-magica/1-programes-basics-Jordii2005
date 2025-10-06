@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Coral Planagumà\\.nuget\\packages\\": {}
+    "C:\\Users\\Jordi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici2\\exercici2.csproj",
+      "projectUniqueName": "C:\\Users\\Jordi\\Documents\\Programacio\\Programas_Basics\\1-programes-basics-Jordii2005\\exercicis\\exercici2\\exercici2.csproj",
       "projectName": "exercici2",
-      "projectPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici2\\exercici2.csproj",
-      "packagesPath": "C:\\Users\\Coral Planagumà\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici2\\obj\\",
+      "projectPath": "C:\\Users\\Jordi\\Documents\\Programacio\\Programas_Basics\\1-programes-basics-Jordii2005\\exercicis\\exercici2\\exercici2.csproj",
+      "packagesPath": "C:\\Users\\Jordi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jordi\\Documents\\Programacio\\Programas_Basics\\1-programes-basics-Jordii2005\\exercicis\\exercici2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Coral Planagumà\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jordi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

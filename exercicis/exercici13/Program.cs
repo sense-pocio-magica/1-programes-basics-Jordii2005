@@ -17,6 +17,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix la data :");
+        string data = Console.ReadLine();
+        string dia = data.Substring(0, 2);
+        string mes = data.Substring(2, 2);
+        string any = data.Substring(4);
+        Console.WriteLine($"La data es {dia}/{mes}/{any}");
     }
 }

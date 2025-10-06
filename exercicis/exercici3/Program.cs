@@ -6,6 +6,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("El nom del prodcute :");
+        string producte = Console.ReadLine();
+        Console.Write("Preu del prodcute :");
+        string preuProducte = Console.ReadLine();
+        Console.Write("Esta en estoc si/no :");
+        string enEstoc = Console.ReadLine();
+
+        bool estoc = enEstoc == "si";
+
+
+        Console.WriteLine($"Producte {producte}");
+        Console.WriteLine($"Preu del Producte {preuProducte}");
+        Console.WriteLine($"Esta en estoc {(estoc ? "Si" : "No" )}");
     }
 }
+
